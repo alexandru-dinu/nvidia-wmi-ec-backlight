@@ -401,5 +401,5 @@ static struct wmi_driver nvidia_wmi_ec_backlight_driver = {
 module_wmi_driver(nvidia_wmi_ec_backlight_driver);
 
 MODULE_AUTHOR("Daniel Dadap <ddadap@nvidia.com>");
-MODULE_DESCRIPTION("NVIDIA WMI EC Backlight driver");
+MODULE_DESCRIPTION("NVIDIA WMI EC Backlight driver (quirky)");
 MODULE_LICENSE("GPL");
